@@ -1,2 +1,2 @@
 # Stock-Price-Predictor
-Stock price predictor takes historical data about a stock ticker of your choice, and uses that data to create its own predictions on where the stock should be. Used matplotlib, pandas, numpy, and pytorch as ML tools, and yfinance as my stock API.
+Stock Price Predictor is a machine learning-powered tool that analyzes historical stock data to generate predictive insights on future price movements. Given any valid stock ticker, the system retrieves historical market data via the Yahoo Finance API (yfinance), processes it, and builds a predictive model using PyTorch. The project leverages NumPy, Pandas, and Matplotlib for data manipulation, analysis, and visualization.
